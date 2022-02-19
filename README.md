@@ -1,9 +1,10 @@
 ## Olá, eu sou o Erick
 </div>
+<a href="https://github.com/feos96">
   <center>
 <table>
     <tr>
-        <td><a href="https://github.com/feos96"> 
+        <td>
   <img height="180em" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=feos96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
         <td><img height="180em" width="480px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feos96&layout=compact&langs_count=7&theme=dracula"/></td>
     </tr>   
