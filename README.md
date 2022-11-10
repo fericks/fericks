@@ -1,4 +1,4 @@
-# Olá, eu sou o Erick, estudante de Engenharia de Controle e Automação.
+## Olá, eu sou o Erick, estudante de Engenharia de Controle e Automação.
 </div>
 <a href="https://github.com/feos96">
   <center>
