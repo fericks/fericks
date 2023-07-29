@@ -1,4 +1,4 @@
-## Olá, eu sou o Erick, estudante de Engenharia de Controle e Automação.
+### Olá, eu sou o Erick, estudante de Engenharia de Controle e Automação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Minha área de especialização abrange o campo da robótica e inteligência artificial, nos quais adquiro e aprimoro meus conhecimentos constantemente..
 </div>
 <a href="https://github.com/feos96">
   <center>
